@@ -30,7 +30,7 @@ print(f"Dinero inicial: {jugador.dinero}")
 
 # 🔁 BUCLE PRINCIPAL DEL JUEGO
 while jugador.dinero > 0:
-    print("\nSigues viviendo lejos de casa…")
+    print("\nSigues viviendo lejos de casa:…")
     print("Elige una opción:")
     print("1. Gastar todo")
     print("2. Invertir")
